@@ -1,0 +1,19 @@
+.footer {
+    padding: 2rem;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .chatbot a {
+    text-decoration: none;
+    color: #f26522;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .chatbot img {
+    margin-right: 0.5rem;
+  }
+  
