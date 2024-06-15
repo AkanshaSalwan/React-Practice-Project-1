@@ -6,10 +6,7 @@ function Footer() {
     <footer className="footer">
       <p>Connect with Us</p>
       <div className="chatbot">
-        <a href="#chat">
-          <img src="/chatbot-icon.png" alt="Chatbot" />
-          Click here to chat
-        </a>
+        <a href="#chat"><img src="chatbot-icon.png" alt="Chatbot" />Click here to chat</a>
       </div>
     </footer>
   );
